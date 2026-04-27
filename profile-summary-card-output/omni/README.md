@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/I-Keima/I-Keima-I-Keima/master/profile-summary-card-output/omni/4-productive-time.svg)
-```
-
-    
